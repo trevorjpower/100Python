@@ -10,3 +10,6 @@ Book to supplement Python learning
 
 # Git and GitHub 
 Udemy course on git - beginner to advance 
++ Git docs 
++ https://docs.github.com/en
++ https://git-scm.com/
