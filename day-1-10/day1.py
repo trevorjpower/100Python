@@ -1,8 +1,8 @@
 # Day 1 
 
-# Strings, variables, and input
+# Topics: Strings, variables, and input
 
-# Band name generator
+# Program name: Band name generator
 
 # Print a welcome message to the user
 print("Welcome to the Band Name Generator.\n")
